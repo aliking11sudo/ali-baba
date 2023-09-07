@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: right;
+  text-decoration: none;
+  background-size: cover;
+  list-style: none;
+}
+
+.bottom-ali {
+  bottom: 90px;
+}
+
+body {
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+.ali-drop {
+  display: none;
+}
+
+.ali-list {
+  margin: 0;
+}
+
+.text-ali {
+  text-decoration: none;
+  color: black;
+}
+
+.bg-ali {
+  background-color: white;
+}
+
+.tex-font {
+  font-size: smaller;
+}
+
+.text-man {
+  text-decoration: none;
+  font-size: large;
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
